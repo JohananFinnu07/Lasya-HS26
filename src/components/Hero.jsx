@@ -49,7 +49,7 @@ export default function Hero({ ready }) {
           }}
         >
           <img
-            src={coverImg}
+            src={cover}
             alt=""
             aria-hidden="true"
             fetchPriority="high"
